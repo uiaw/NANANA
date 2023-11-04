@@ -1,0 +1,232 @@
+@media (min-width: 1400px) {}
+@media (min-width: 1200px) and (max-width: 1399px) {}
+@media (min-width: 992px) and (max-width: 1199px) {}
+@media (min-width: 768px) and (max-width: 991px) {}
+@media (min-width: 576px) and (max-width: 767px) {
+   /* Common Css */
+   .common_button {
+    margin: 0 auto;
+    display: inherit;
+    padding: 10px 35px;
+}
+.heading h2 {
+    font-size: 30px;
+}
+.heading p {
+    width: 100%;
+    line-height: 26px;
+}
+/* Common Css */
+/* =================
+Menu Part Start
+================= */
+.main_menu {
+padding: 10px 0 !important;
+}
+.main_logo{
+width: 130px;
+}
+.main_menu ul {
+gap: 10px;
+text-align: center;
+}
+/* =================
+Menu Part End
+================= */
+/* =================
+Banner Part Start
+================= */
+#banner {
+padding: 60px 0 60px;
+}
+.banner_text h1 {
+width: 100%;
+font-size: 35px;
+line-height: 45px;
+}
+.banner_text p {
+width: 100%;
+margin: 20px 0 30px;
+color: #fff;
+}
+.banner_part {
+padding: 24px 25px;
+flex-direction: column;
+gap: 15px;
+}
+.banner_part button {
+padding: 15px 50px;
+background: #007F5F;
+color: #fff;
+border-radius: 10px;
+border: none;
+}
+/* =================
+Banner Part End
+================= */
+/* =================
+Benefit Part Start
+================= */
+#benefit {
+padding: 60px 0;
+}
+.benifitbody {
+margin: 0px 0 30px;
+}
+.benefit-item {
+padding: 30px;
+}
+/* =================
+Benefit Part End
+================= */
+/* =================
+Destination Part Start
+================= */
+#destination {
+padding-bottom: 60px;
+}
+/* =================
+Destination Part End
+================= */
+/* =================
+Places Part Start
+================= */
+.place_text {
+width: auto;
+}
+.place_text h3 {
+width: 100%;
+}
+.place_text p {
+width: 100%;
+}
+.place_img {
+width: auto;
+}
+/* =================
+Places Part End
+================= */
+/* =================
+Menu Part Start
+================= */
+.test_item {
+display: none;
+}
+/* =================
+Menu Part End
+================= */
+}
+@media (max-width: 575px) {
+    /* Common Css */
+    .common_button {
+        margin: 0 auto;
+        display: inherit;
+        padding: 10px 35px;
+    }
+    .heading h2 {
+        font-size: 30px;
+    }
+    .heading p {
+        width: 100%;
+        line-height: 26px;
+    }
+    /* Common Css */
+ /* =================
+    Menu Part Start
+ ================= */
+ .main_menu {
+    padding: 10px 0 !important;
+}
+.main_logo{
+    width: 130px;
+}
+.main_menu ul {
+	gap: 10px;
+	text-align: center;
+}
+ /* =================
+    Menu Part End
+ ================= */
+ /* =================
+  Banner Part Start
+ ================= */
+ #banner {
+	padding: 60px 0 60px;
+}
+.banner_text h1 {
+	width: 100%;
+	font-size: 35px;
+	line-height: 45px;
+}
+.banner_text p {
+	width: 100%;
+	margin: 20px 0 30px;
+    color: #fff;
+}
+.banner_part {
+	padding: 24px 25px;
+	flex-direction: column;
+	gap: 15px;
+}
+.banner_part button {
+	padding: 15px 50px;
+	background: #007F5F;
+	color: #fff;
+	border-radius: 10px;
+	border: none;
+}
+ /* =================
+  Banner Part End
+ ================= */
+ /* =================
+  Benefit Part Start
+ ================= */
+ #benefit {
+	padding: 60px 0;
+}
+.benifitbody {
+	margin: 0px 0 30px;
+}
+.benefit-item {
+	padding: 30px;
+}
+ /* =================
+  Benefit Part End
+ ================= */
+ /* =================
+  Destination Part Start
+ ================= */
+ #destination {
+	padding-bottom: 60px;
+}
+ /* =================
+  Destination Part End
+ ================= */
+ /* =================
+ Places Part Start
+ ================= */
+ .place_text {
+	width: auto;
+}
+ .place_text h3 {
+	width: 100%;
+}
+.place_text p {
+	width: 100%;
+}
+.place_img {
+	width: auto;
+}
+ /* =================
+ Places Part End
+ ================= */
+ /* =================
+    Menu Part Start
+ ================= */
+ .test_item {
+	display: none;
+}
+ /* =================
+    Menu Part End
+ ================= */
+}
